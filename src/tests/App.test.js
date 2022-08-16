@@ -1,7 +1,7 @@
 import { screen } from '@testing-library/react';
 import React from 'react';
 import userEvent from '@testing-library/user-event';
-import renderWithRouter from '../services/RenderWithRouter';
+import renderWithRouter from '../RenderWithRouter';
 import App from '../App';
 
 describe('O componente <App.js /> é renderizado corretamente', () => {
