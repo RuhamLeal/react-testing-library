@@ -1,6 +1,6 @@
 # react-testing-library
 
-A project I did to test a front-end application provided by [@trybe](https://www.betrybe.com/), in this project I was only in charge of testing.
+A project I did to test a front-end application made with React provided by [@trybe](https://www.betrybe.com/), in this project I was only in charge of testing.
 
 
 # Table of contents
