@@ -19,7 +19,7 @@ git clone https://github.com/RuhamLeal/react-testing-library.git
 cd react-testing-library
 ```
 
-If you want to see de complete aplication, install dependicies:
+If you want to see the complete aplication, install dependicies:
 
 ```
 npm install
