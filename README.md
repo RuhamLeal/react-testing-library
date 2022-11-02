@@ -13,10 +13,10 @@ A project I did to test a front-end application provided by [@trybe](https://www
 To acess the tests, just need to clone the repository:
 
 ```
-git clone https://github.com/RuhamLeal/js-hofs-es6-functions.git
+git clone https://github.com/RuhamLeal/react-testing-library.git
 ```
 ```
-cd js-hofs-es6-functions
+cd react-testing-library
 ```
 
 If you want to see de complete aplication, install dependicies:
